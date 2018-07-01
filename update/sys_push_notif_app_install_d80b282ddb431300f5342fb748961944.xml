@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2018-07-01 20:32:08</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-01 20:32:08</sys_created_on>
+        <sys_id>d80b282ddb431300f5342fb748961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eqnpmWktOz0:APA91bHDg7Wq8b2lHYDxOoa9KosEyI-EpoCNMiDZtVudzjymN0GTP5NT17cQXrbCBPF_VnsVoj98JjrKHACcIJ_HofZpXAdMwz0FRGj8fK8gYp7EsZ2m_iJm942f71fsH1ObI8mO2bfp</sys_name>
+        <sys_package display_value="Loaner Request" source="x_76838_loaner_req">3b8c1061db431300f5342fb74896192a</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Loaner Request">3b8c1061db431300f5342fb74896192a</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_d80b282ddb431300f5342fb748961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-01 20:32:08</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>eqnpmWktOz0:APA91bHDg7Wq8b2lHYDxOoa9KosEyI-EpoCNMiDZtVudzjymN0GTP5NT17cQXrbCBPF_VnsVoj98JjrKHACcIJ_HofZpXAdMwz0FRGj8fK8gYp7EsZ2m_iJm942f71fsH1ObI8mO2bfp</token>
+    </sys_push_notif_app_install>
+</record_update>
